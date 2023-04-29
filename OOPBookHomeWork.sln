@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPBookHomeWork", "OOPBookHomeWork\OOPBookHomeWork.csproj", "{19B7562C-D26E-4D8D-B2FF-F7ED1062EF2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B7562C-D26E-4D8D-B2FF-F7ED1062EF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B7562C-D26E-4D8D-B2FF-F7ED1062EF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B7562C-D26E-4D8D-B2FF-F7ED1062EF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B7562C-D26E-4D8D-B2FF-F7ED1062EF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15817FF5-4BC4-4EBE-8EE2-B32537A8F0E0}
+	EndGlobalSection
+EndGlobal
